@@ -8,5 +8,5 @@ main()
 	printf("华氏温度为%f", h);
 	getchar();
 	getchar();
-
+	//我加了一行注释
 }
